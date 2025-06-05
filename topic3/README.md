@@ -27,3 +27,14 @@
   [**Advanced RAG issues**](https://nebius-academy.github.io/knowledge-base/advanced-rag-issues/)
 
   **RAPTOR demo** [colab link](https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic3/3.4_RAPTOR_demo.ipynb)
+
+
+## Project part: deploying an RAG service
+
+The project materials are in the [rag_service](https://github.com/Nebius-Academy/LLMOps-Essentials/tree/rag_service) branch of the project repo. For deployment guide, see the usual [Deployment manual](https://github.com/Nebius-Academy/LLMOps-Essentials/blob/main/DEPLOYMENT_MANUAL.md).
+
+The following video will help you to understand how the code is structured and how the service works:
+
+1. [Creating a RAG gradio service](https://youtu.be/ep-IOGHnrqg)
+
+**Tasks for you:** see [topic_3_project_task.md](https://github.com/Nebius-Academy/LLM-Engineering-Essentials/new/main/topic3/topic_3_project_task.md)
