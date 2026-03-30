@@ -8,7 +8,7 @@
 
 * **1.1. Intro to LLM APIs** [colab link](https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic1/1.1_intro_to_llm_apis.ipynb)
 
-  Experiment with text-to-image and image-to-text generation, send API requests, and analyze responses using OpenAI API and [Nebius AI Studio](https://studio.nebius.ai/), which provides open-source models like Llama, Mistral, DeepSeek, and Qwen. 
+  Experiment with text-to-image and image-to-text generation, send API requests, and analyze responses using OpenAI API and [Nebius Token Factory](https://tokenfactory.nebius.com/), which provides open-source models like Llama, Mistral, DeepSeek, and Qwen. 
   This section will ensure you can make API calls, handle responses, and integrate LLMs into applications.
 
 * **1.2. Tokenization** [colab link](https://colab.research.google.com/github/Nebius-Academy/LLM-Engineering-Essentials/blob/main/topic1/1.2_tokenization.ipynb)

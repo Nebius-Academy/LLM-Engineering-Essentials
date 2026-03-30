@@ -10,7 +10,7 @@ class DeepResearchBot:
         self,
         openai_client: AsyncOpenAI,
         tavily_client: AsyncTavilyClient,
-        model: str = "Qwen/QwQ-32B",
+        model: str = "Qwen/Qwen3-30B-A3B-Thinking-2507",
         max_queries: int = 5, # Max search queries in each iteration
         max_sources: int = 4, # Max number of sources fetched for each query
         max_iterations: int = 3, # Max number of search-analysis iterations
